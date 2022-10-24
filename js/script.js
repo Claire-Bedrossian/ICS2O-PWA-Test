@@ -1,7 +1,7 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 202X Claire Bedrossian All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Claire Bedrossian
+// Created on: XXX 202X
 // This file contains the JS functions for index.html
 
 "use strict"
